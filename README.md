@@ -34,77 +34,121 @@ I am a **full-stack developer** with **7+ years of experience** in **eCommerce, 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" />
       <br>Vue
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="65" height="65" />
+      <br>Nuxt
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="65" height="65" />
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+      <br>Tailwind
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" />
       <br>GraphQL
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
-      <br>Nodejs
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg"
-        width="65" height="65" alt="Git" />
-      <br>React_Native
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
-        width="65" height="65" alt="Git" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" />
+      <br>SQLite
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-        width="65" height="65" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" />
+      <br>Linux
     </td>
   </tr>
 </table>
@@ -136,5 +180,3 @@ I am a **full-stack developer** with **7+ years of experience** in **eCommerce, 
 
 [![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=top-ace-friend&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/top-ace-friend)
 </div>
-
-
